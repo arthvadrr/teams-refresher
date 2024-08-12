@@ -1,0 +1,7 @@
+build/
+.idea/
+.DS_Store
+.nova
+.vscode
+.env
+.zip
